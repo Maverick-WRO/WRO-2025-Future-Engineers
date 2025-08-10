@@ -4,3 +4,5 @@
 This is the github repository for team MAVERICK for WRO 2025 INDIA. You'll find our documentation in this readme
 
 We are Team Maverick – Shaik Sameer, Jagadeswar, and Rino Shajan, guided by Ms. N. Seenu. Competing for the first time at WRO India, GMR Hyderabad, we bring creativity, problem-solving, and technical skills. Driven by passion and dedication to win, we aim to learn, innovate, and make our debut unforgettable.
+
+hello
