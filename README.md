@@ -304,15 +304,20 @@ Look for the port that matches the Arduino connection and update it in the confi
 Make sure pillars are enabled/disabled in the config file as needed, and that no fixed round 
 direction is set.
 ```
+
 6.Run the Main Script
 
 ```bash
 cd flawfactory-future-engineers-brescia/raspy
 python3 roi.py
 ```
+
 7.Control the Robot
+
 Open the web interface in your browser.
+
 Click Connect to start autonomous driving.
+
 To stop:
 Close the web interface
 Press the Stop button on the robot
