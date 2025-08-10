@@ -303,10 +303,8 @@ ls /dev/tty*
 Look for the port that matches the Arduino connection and update it in the config file.
 Make sure pillars are enabled/disabled in the config file as needed, and that no fixed round 
 direction is set.
-```
 
 6.Run the Main Script
-
 ```bash
 cd flawfactory-future-engineers-brescia/raspy
 python3 roi.py
