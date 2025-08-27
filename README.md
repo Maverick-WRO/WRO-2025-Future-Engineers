@@ -80,7 +80,7 @@ Efficient separation of control and power stages for reliability
 
 For our WRO 2025 robot, we use a Raspberry Pi Camera Module 3 NoIR as the primary vision sensor. This camera was selected for its high resolution, low-light capability, and ability to integrate directly with the Raspberry Pi 4’s CSI interface, ensuring low-latency video streaming for real-time processing. The wide dynamic range of the NoIR variant allows for better detection of color-based markers and objects under varying lighting conditions in the competition arena.
 
-The camera connects directly to the Pi 5 and is powered through the CSI interface, eliminating the need for additional power lines. To optimize detection accuracy, the camera is mounted at the front-center of the chassis on an adjustable 3D-printed bracket, allowing us to fine-tune the tilt and height during calibration. The mount is designed to maintain a stable field of view, minimizing vibrations from the drivetrain.
+The camera connects directly to the Pi 4 and is powered through the CSI interface, eliminating the need for additional power lines. To optimize detection accuracy, the camera is mounted at the front-center of the chassis on an adjustable 3D-printed bracket, allowing us to fine-tune the tilt and height during calibration. The mount is designed to maintain a stable field of view, minimizing vibrations from the drivetrain.
 
 Unlike setups that rely solely on vision, our robot uses the camera in combination with a multi-sensor array:
 4 Ultrasonic Sensors – For obstacle detection and front/side distance measurements.
