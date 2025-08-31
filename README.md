@@ -117,7 +117,7 @@ By combining computer vision with hardware-based sensors, we achieve a balance b
 | Rhino 1000 RPM Geared DC Motor | 1 | Rear axle drive motor that provides forward and reverse propulsion via a bevel gear linkage. |
 | L298n Motor Driver | 1 | Controls the  motor with PWM speed control and direction switching, supporting higher currents than standard H-bridges. |
 | 65 mm Rubber Wheels | 4 | Provide traction and stability on the WRO arena surface. |
-| Gears & Axle Linkage | — | Transmit power from the N20 motor to the rear wheels. |
+| Gears & Axle Linkage | — | Transmit power from the  motor to the rear wheels. |
 | 3S LiPo Battery 11.1V 1000mAh | 1 | Lightweight, high-discharge battery that powers both the drive system and electronics. |
 | Buck Converter | 1 | Steps down LiPo voltage to stable 5V for the Raspberry Pi and Arduino. |
 | Power Distribution Board (PDB) | 1 | Distributes power from the battery to multiple subsystems. |
