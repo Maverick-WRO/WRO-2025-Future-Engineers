@@ -179,9 +179,9 @@ Each turn decrements a corner counter, ensuring the robot stops exactly at the e
 
 This approach blends high-speed camera vision with real-time distance sensing, resulting in a robust navigation system that adapts to both static arena structures and randomized obstacle gaps.
 
-![Wall Detection](/media/walls masking.jpg.png)
+![Wall Detection](main/media/walls%20masking.jpg?raw=true)
 
-(The immage above explains the masking process done to detect the Borders such as the black corners and walls andn the lines as turning counters based on the direction.)
+(The immage above explains the masking process done to detect the Borders such as the black corners and walls andn the lines as turning counters based on the direction exhibt.)
 
 ### Obstacle Race
 
