@@ -179,7 +179,7 @@ Each turn decrements a corner counter, ensuring the robot stops exactly at the e
 
 This approach blends high-speed camera vision with real-time distance sensing, resulting in a robust navigation system that adapts to both static arena structures and randomized obstacle gaps.
 
-![Wall Detection](main/media/wall.jpg)
+![Wall Detection](https://github.com/Maverick-WRO/WRO-2025-Future-Engineers/blob/main/media/wall.jpg?raw=true)
 
 (The immage above explains the masking process done to detect the Borders such as the black corners and walls andn the lines as turning counters based on the direction exhibt.)
 
