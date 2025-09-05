@@ -127,7 +127,7 @@ By combining computer vision with hardware-based sensors, we achieve a balance b
 
 <!-- Obstacle management discussion should include the strategy for the vehicle to negotiate the obstacle course for all the challenges. This could include flow diagrams, pseudo code and source code with detailed comments. -->
 
-All files for the 3D printed parts can be found in the [3D-Printed-Parts](/cad/3d) folder. All parts can be printed without supports at 0.2mm layer height.
+All files for the 3D printed parts can be found in the [3D-Printed-Parts](/cad) folder. All parts can be printed without supports at 0.2mm layer height.
 The wiring diagram can be found in the [Wiring Diagram](/media/wiringdiagram.jpg) file. The instructions for the LEGO chassis can be found in the []().
 
 ## Obstacle Management
@@ -179,7 +179,7 @@ Each turn decrements a corner counter, ensuring the robot stops exactly at the e
 
 This approach blends high-speed camera vision with real-time distance sensing, resulting in a robust navigation system that adapts to both static arena structures and randomized obstacle gaps.
 
-![Wall Detection]()
+![Wall Detection](/media/walls masking.jpg)
 
 (about the image)
 
@@ -220,7 +220,7 @@ This combined HSV-based detection and sensor-assisted avoidance ensures pillars 
 
 ![Wall Detection]()
 
-(about the image)
+()
 
 <!-- Insert image with behavior tree here -->
 
@@ -239,8 +239,8 @@ Upon completing the three laps, the vehicle initiates a Parking Sequence, beginn
 
 | ![Front](/V-Photos/Front.jpg)                 | ![Back](/V-Photos/back.jpg)     |
 | -------------------------- | ---------------------------- |
-| ![Left](/V-Photos/l%20side.jpg)                  | ![Right](/V-Photos/bottom.jpg)   |
-| ![Top](/V-Photos/Top.jpg)                   | ![Bottom](/V-Photos/side.jpg) |
+| ![Left](/V-Photos/left.jpg)                  | ![Right](/V-Photos/Right.jpg)   |
+| ![Top](/V-Photos/Top.jpg)                   | ![Bottom](/V-Photos/Bottom.jpg) |
 
 ![Team]()
 ![Team]()
