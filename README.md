@@ -181,7 +181,7 @@ This approach blends high-speed camera vision with real-time distance sensing, r
 
 ![Wall Detection](/media/walls masking.jpg)
 
-(about the image)
+(The immage above explains the masking process done to detect the Borders such as the black corners and walls andn the lines as turning counters based on the direction.)
 
 ### Obstacle Race
 
