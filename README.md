@@ -128,7 +128,7 @@ By combining computer vision with hardware-based sensors, we achieve a balance b
 <!-- Obstacle management discussion should include the strategy for the vehicle to negotiate the obstacle course for all the challenges. This could include flow diagrams, pseudo code and source code with detailed comments. -->
 
 All files for the 3D printed parts can be found in the [3D-Printed-Parts](/cad) folder. All parts can be printed without supports at 0.2mm layer height.
-The wiring diagram can be found in the [Wiring Diagram](https://github.com/Maverick-WRO/WRO-2025-Future-Engineers/blob/main/Wiring%20Schematic/Wiring/diagram.png) file. The instructions for the chassis can be found in the [main/cad]().
+The wiring diagram can be found in the [Wiring Diagram](Wiring Schematic/Wiring/diagram.png) file. The instructions for the chassis can be found in the [main/cad]().
 
 ## Obstacle Management
 
