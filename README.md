@@ -128,7 +128,8 @@ By combining computer vision with hardware-based sensors, we achieve a balance b
 <!-- Obstacle management discussion should include the strategy for the vehicle to negotiate the obstacle course for all the challenges. This could include flow diagrams, pseudo code and source code with detailed comments. -->
 
 All files for the 3D printed parts can be found in the [3D-Printed-Parts](/cad) folder. All parts can be printed without supports at 0.2mm layer height.
-The wiring diagram can be found in the [Wiring Diagram](/media/wiringdiagram.jpg) file. The instructions for the LEGO chassis can be found in the []().
+The wiring diagram can be found in the [Wiring Diagram](/Wiring Schematic
+/Wiring/diagram.png) file. The instructions for the chassis can be found in the [main/cad]().
 
 ## Obstacle Management
 
@@ -181,7 +182,7 @@ This approach blends high-speed camera vision with real-time distance sensing, r
 
 ![Wall Detection](https://github.com/Maverick-WRO/WRO-2025-Future-Engineers/blob/main/media/wall.jpg?raw=true)
 
-(The immage above explains the masking process done to detect the Borders such as the black corners and walls andn the lines as turning counters based on the direction exhibt.)
+(The image above explains the masking process done to detect the Borders such as the black corners and walls and the lines as turning counters based on the direction exhibt.)
 
 ### Obstacle Race
 
